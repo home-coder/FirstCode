@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstCode.iml" filepath="$PROJECT_DIR$/FirstCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitytest/activitytest.iml" filepath="$PROJECT_DIR$/activitytest/activitytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl_register_service/aidl_register_service.iml" filepath="$PROJECT_DIR$/aidl_register_service/aidl_register_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/displayctl/displayctl.iml" filepath="$PROJECT_DIR$/displayctl/displayctl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullscreen/fullscreen.iml" filepath="$PROJECT_DIR$/fullscreen/fullscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itest/itest.iml" filepath="$PROJECT_DIR$/itest/itest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java4android/java4android.iml" filepath="$PROJECT_DIR$/java4android/java4android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyevent/keyevent.iml" filepath="$PROJECT_DIR$/keyevent/keyevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myaidl/myaidl.iml" filepath="$PROJECT_DIR$/myaidl/myaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycalculate/mycalculate.iml" filepath="$PROJECT_DIR$/mycalculate/mycalculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydiag/mydiag.iml" filepath="$PROJECT_DIR$/mydiag/mydiag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjava/myjava.iml" filepath="$PROJECT_DIR$/myjava/myjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mykeyevent/mykeyevent.iml" filepath="$PROJECT_DIR$/mykeyevent/mykeyevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myphone/myphone.iml" filepath="$PROJECT_DIR$/myphone/myphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspi/myspi.iml" filepath="$PROJECT_DIR$/myspi/myspi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapplication/testapplication.iml" filepath="$PROJECT_DIR$/testapplication/testapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testproperties/testproperties.iml" filepath="$PROJECT_DIR$/testproperties/testproperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uartserverlog/uartserverlog.iml" filepath="$PROJECT_DIR$/uartserverlog/uartserverlog.iml" />
+    </modules>
+  </component>
+</project>

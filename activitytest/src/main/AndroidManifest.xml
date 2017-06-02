@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.carmak.activitytest">
+    <service android:name="android.os.IFlexcanService"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".FirstActivity"
+            android:label="This is My FirstActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HelperFirst"
+            android:label="风扇的开关">
+        </activity>
+        <activity
+            android:name=".IntentActivity"
+            android:label="灯的开关">
+            <intent-filter>
+                <action android:name="com.carmak.activitytest.ACTION_START"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="com.carmak.activitytest.MY_CATEGORY"/>
+                <!--<action android:name="com.carmak.activitytest.ACTION_START"/>-->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".IntentCallbackActivity"
+            android:label="IntentCallbackActivity Camark">
+        </activity>
+        <activity
+            android:name=".IntentSetdataActivity"
+            android:label="从上级页面搞进来数据并显示">
+        </activity>
+
+    </application>
+
+</manifest>

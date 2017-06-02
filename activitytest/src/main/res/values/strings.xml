@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="second_button">电灯</string>
+    <string name="fourth_button">intent状态回传</string>
+
+    <string name="hello">Hello World, Flexcan!</string>
+    <string name="app2_name">Flexcan</string>
+    <string name="button">send!!</string>
+    <string name="button1">dump!!</string>
+
+</resources>

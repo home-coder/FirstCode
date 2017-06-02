@@ -1,0 +1,1 @@
+include ':activitytest', ':java4android', ':testapplication', ':myspi', ':myphone', ':myaidl', ':aidl_register_service', ':myjava', ':uartserverlog', ':keyevent', ':mykeyevent', ':itest', ':mycalculate', ':displayctl', ':mydiag', ':testproperties', ':fullscreen'

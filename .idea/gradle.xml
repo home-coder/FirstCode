@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitytest" />
+            <option value="$PROJECT_DIR$/aidl_register_service" />
+            <option value="$PROJECT_DIR$/displayctl" />
+            <option value="$PROJECT_DIR$/fullscreen" />
+            <option value="$PROJECT_DIR$/itest" />
+            <option value="$PROJECT_DIR$/java4android" />
+            <option value="$PROJECT_DIR$/keyevent" />
+            <option value="$PROJECT_DIR$/myaidl" />
+            <option value="$PROJECT_DIR$/mycalculate" />
+            <option value="$PROJECT_DIR$/mydiag" />
+            <option value="$PROJECT_DIR$/myjava" />
+            <option value="$PROJECT_DIR$/mykeyevent" />
+            <option value="$PROJECT_DIR$/myphone" />
+            <option value="$PROJECT_DIR$/myspi" />
+            <option value="$PROJECT_DIR$/testapplication" />
+            <option value="$PROJECT_DIR$/testproperties" />
+            <option value="$PROJECT_DIR$/uartserverlog" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitytest" />
+            <option value="$PROJECT_DIR$/aidl_register_service" />
+            <option value="$PROJECT_DIR$/displayctl" />
+            <option value="$PROJECT_DIR$/fullscreen" />
+            <option value="$PROJECT_DIR$/itest" />
+            <option value="$PROJECT_DIR$/java4android" />
+            <option value="$PROJECT_DIR$/keyevent" />
+            <option value="$PROJECT_DIR$/myaidl" />
+            <option value="$PROJECT_DIR$/mycalculate" />
+            <option value="$PROJECT_DIR$/mydiag" />
+            <option value="$PROJECT_DIR$/myjava" />
+            <option value="$PROJECT_DIR$/mykeyevent" />
+            <option value="$PROJECT_DIR$/myphone" />
+            <option value="$PROJECT_DIR$/myspi" />
+            <option value="$PROJECT_DIR$/testapplication" />
+            <option value="$PROJECT_DIR$/testproperties" />
+            <option value="$PROJECT_DIR$/uartserverlog" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
