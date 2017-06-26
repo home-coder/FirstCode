@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/itest/itest.iml" filepath="$PROJECT_DIR$/itest/itest.iml" />
       <module fileurl="file://$PROJECT_DIR$/java4android/java4android.iml" filepath="$PROJECT_DIR$/java4android/java4android.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyevent/keyevent.iml" filepath="$PROJECT_DIR$/keyevent/keyevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libfilesave/libfilesave.iml" filepath="$PROJECT_DIR$/libfilesave/libfilesave.iml" />
       <module fileurl="file://$PROJECT_DIR$/myaidl/myaidl.iml" filepath="$PROJECT_DIR$/myaidl/myaidl.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycalculate/mycalculate.iml" filepath="$PROJECT_DIR$/mycalculate/mycalculate.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydiag/mydiag.iml" filepath="$PROJECT_DIR$/mydiag/mydiag.iml" />
@@ -17,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/mykeyevent/mykeyevent.iml" filepath="$PROJECT_DIR$/mykeyevent/mykeyevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/myphone/myphone.iml" filepath="$PROJECT_DIR$/myphone/myphone.iml" />
       <module fileurl="file://$PROJECT_DIR$/myspi/myspi.iml" filepath="$PROJECT_DIR$/myspi/myspi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythread/mythread.iml" filepath="$PROJECT_DIR$/mythread/mythread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfileoutput/openfileoutput.iml" filepath="$PROJECT_DIR$/openfileoutput/openfileoutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharepreferences/sharepreferences.iml" filepath="$PROJECT_DIR$/sharepreferences/sharepreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/testapplication/testapplication.iml" filepath="$PROJECT_DIR$/testapplication/testapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/testproperties/testproperties.iml" filepath="$PROJECT_DIR$/testproperties/testproperties.iml" />
       <module fileurl="file://$PROJECT_DIR$/uartserverlog/uartserverlog.iml" filepath="$PROJECT_DIR$/uartserverlog/uartserverlog.iml" />

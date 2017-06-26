@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -15,6 +16,7 @@
             <option value="$PROJECT_DIR$/itest" />
             <option value="$PROJECT_DIR$/java4android" />
             <option value="$PROJECT_DIR$/keyevent" />
+            <option value="$PROJECT_DIR$/libfilesave" />
             <option value="$PROJECT_DIR$/myaidl" />
             <option value="$PROJECT_DIR$/mycalculate" />
             <option value="$PROJECT_DIR$/mydiag" />
@@ -22,6 +24,9 @@
             <option value="$PROJECT_DIR$/mykeyevent" />
             <option value="$PROJECT_DIR$/myphone" />
             <option value="$PROJECT_DIR$/myspi" />
+            <option value="$PROJECT_DIR$/mythread" />
+            <option value="$PROJECT_DIR$/openfileoutput" />
+            <option value="$PROJECT_DIR$/sharepreferences" />
             <option value="$PROJECT_DIR$/testapplication" />
             <option value="$PROJECT_DIR$/testproperties" />
             <option value="$PROJECT_DIR$/uartserverlog" />
@@ -37,6 +42,7 @@
             <option value="$PROJECT_DIR$/itest" />
             <option value="$PROJECT_DIR$/java4android" />
             <option value="$PROJECT_DIR$/keyevent" />
+            <option value="$PROJECT_DIR$/libfilesave" />
             <option value="$PROJECT_DIR$/myaidl" />
             <option value="$PROJECT_DIR$/mycalculate" />
             <option value="$PROJECT_DIR$/mydiag" />
@@ -44,6 +50,9 @@
             <option value="$PROJECT_DIR$/mykeyevent" />
             <option value="$PROJECT_DIR$/myphone" />
             <option value="$PROJECT_DIR$/myspi" />
+            <option value="$PROJECT_DIR$/mythread" />
+            <option value="$PROJECT_DIR$/openfileoutput" />
+            <option value="$PROJECT_DIR$/sharepreferences" />
             <option value="$PROJECT_DIR$/testapplication" />
             <option value="$PROJECT_DIR$/testproperties" />
             <option value="$PROJECT_DIR$/uartserverlog" />
